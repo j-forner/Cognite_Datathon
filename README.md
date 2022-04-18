@@ -1,4 +1,4 @@
-# <Cognite Challenge: Team Pakaa Baja Blast>
+## <Cognite Challenge: Team Pakaa Baja Blast>
 
 ## Our Project
 
