@@ -74,7 +74,7 @@ timestamp = df.loc[(df.datetime.dt.date == select_date), 'datetime'].dt.time
 g1 = px.scatter(x=timestamp, y=fig1)
 g1.update_layout(xaxis_title="Time (hh:mm:ss) on " + str(select_date), yaxis_title="Wind Speed (m/s)")
 st.write(g1)
-# In[4]: ## Graph Wind Directio 
+# In[4]: ## Graph Wind Direction
     
 st.subheader('Wind Direction')
 fig2 = df.loc[(df.datetime.dt.date == select_date), 'WDIR']
