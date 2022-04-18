@@ -1,6 +1,4 @@
-## <Cognite Challenge: Team Pakaa Baja Blast>
-
-## Our Project
+## Cognite Challenge: Team Pakaa Baja Blast
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
