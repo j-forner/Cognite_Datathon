@@ -1,5 +1,8 @@
 ## Cognite Challenge: Team Pakaa Baja Blast
 
+In January of 2022, I participated on a team with three other graduate students to solve Cognite's data science task, which was as follows: "Using a combination of tools of your choice you will build an interactive dashboard where upon entering the platform name you will be able to visualize the wind speed and wind direction in a time series plot. You will also forecast how wind speed and direction will change in the next 72 hours. In addition to the time series plot your dashboard should also show a polar plot of the daily average wind speed in the mean direction of that day. You should be able to select the day interactively for the daily polar plot."
+
+
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation?
